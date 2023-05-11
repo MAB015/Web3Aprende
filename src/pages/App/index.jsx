@@ -1,5 +1,5 @@
-import Example from './components/Example'
-import './App.css'
+import Example from '../../components/Example'
+import '../../App.css'
 
 function App() {
 
