@@ -1,10 +1,11 @@
 import Layout from '../../components/Layout'
+import Hero from '../../components/Hero'
 import CardUnits from '../../components/CardUnits'
 
 function Home (){
     return(
         <Layout>
-            <h1 className='text-red-500'> Bienvenido a Web3Aprende</h1>
+            <Hero />
             <CardUnits />
         </Layout>
     )

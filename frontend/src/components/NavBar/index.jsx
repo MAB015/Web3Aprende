@@ -1,4 +1,5 @@
 import { NavLink } from 'react-router-dom'
+import Buttons from '../Buttons'
 // import { useContext } from 'react'
 // import { Web3Context } from '../../Context'
 
@@ -18,7 +19,7 @@ const NavBar = () => {
             <ul className='flex items-center'>
                 <li className='font-semibold text-lg'>
                     <NavLink className=''>
-                        <button>Connect</button>
+                        <Buttons />
                     </NavLink>
                 </li>
             </ul>
