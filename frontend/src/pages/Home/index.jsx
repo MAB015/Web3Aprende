@@ -1,10 +1,12 @@
-import React from "react";
+import Layout from '../../components/Layout'
+import CardUnits from '../../components/CardUnits'
 
 function Home (){
     return(
-        <>
-            <h1>Home</h1>
-        </>
+        <Layout>
+            <h1 className='text-red-500'> Bienvenido a Web3Aprende</h1>
+            <CardUnits />
+        </Layout>
     )
 }
 
