@@ -29,7 +29,6 @@ contract Gamification {
     /// Identifica la puntuación más alta de determinada address
     mapping(address => uint16) public highScores;
 
-
     /// Constructor que recibe la duración del juego y el fee a aplicar
     constructor(uint16 _duration, uint256 _fee) {
         duration = _duration;
