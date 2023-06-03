@@ -1,4 +1,6 @@
 body {
-    background-color: black;
     color: white;
+    background: linear-gradient(112.1deg, rgb(0, 3, 3) 11.4%, rgb(1, 18, 20) 70.2%);
+    background-attachment: fixed;
+    font-family: Michroma, Geneva, Tahoma, sans-serif;
 }

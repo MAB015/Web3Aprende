@@ -13,7 +13,7 @@ export const LogoWeb3 = () => {
 export const LongLogoWeb3 = () => {
     return (
         <div>
-            <img src={ Web3LongLogo } alt='Long Logo Web3Aprende' className='w-96' />
+            <img src={ Web3LongLogo } alt='Long Logo Web3Aprende' className='w-full' />
         </div>
     )
 }
