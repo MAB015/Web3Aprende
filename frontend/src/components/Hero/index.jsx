@@ -1,5 +1,7 @@
 import Buttons from '../Buttons'
 import { LongLogoWeb3 } from '../../assets/Logos'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faRightToBracket } from '@fortawesome/free-solid-svg-icons'
 import { ArrowDown, FotoPoligon } from '../../assets/Imagenes'
 
 const Hero = () => {
@@ -10,7 +12,7 @@ const Hero = () => {
             <p className='text-4xl text-center'>crecimiento y sostenibilidad del ecosistema web3</p>
             <Buttons
                 textButton='Conectar '
-                iconButton={'->'}
+                iconButton={<FontAwesomeIcon icon={faRightToBracket} />}
                 navigateTo='/conectado'
             />
             <FotoPoligon />

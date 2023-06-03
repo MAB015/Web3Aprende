@@ -1,6 +1,8 @@
 import { NavLink } from 'react-router-dom'
 import Buttons from '../Buttons'
 import { LogoWeb3 } from '../../assets/Logos'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faRightToBracket } from '@fortawesome/free-solid-svg-icons'
 
 const NavBar = () => {
     return (
@@ -17,7 +19,7 @@ const NavBar = () => {
                     <NavLink>
                         <Buttons
                             textButton='Conectar '
-                            iconButton={'->'}
+                            iconButton={<FontAwesomeIcon icon={faRightToBracket} />}
                             navigateTo='/conectado'
                         />
                     </NavLink>
