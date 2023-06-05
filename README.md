@@ -20,6 +20,15 @@ Nuestra plataforma te guiará a través de lecciones interactivas y desafiantes 
 - Vercel: Servicio de alojamiento y implementación de aplicaciones web.
 - Tailwind CSS: Framework de CSS utilizado para diseñar la interfaz de usuario de la aplicación.
 
+## **RESEARCH**
+### [UX Research](https://www.figma.com/file/JQNxZPOH8jlwZOlMTSrUEA/UX-Web3Aprende?type=whiteboard&node-id=0%3A1&t=a5Is2o3GVkPwqg7f-1)
+
+## **PROTOTIPO**
+### [Protoripo]()
+
+ ## **Instalación**
+
+
 ## **Instalación**
 
 En construcción 🚧
