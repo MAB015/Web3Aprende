@@ -24,7 +24,7 @@ Nuestra plataforma te guiará a través de lecciones interactivas y desafiantes 
 - ### [UX Research](https://www.figma.com/file/JQNxZPOH8jlwZOlMTSrUEA/UX-Web3Aprende?type=whiteboard&node-id=0%3A1&t=a5Is2o3GVkPwqg7f-1)
 
 ## **PROTOTIPO**
-- ### [Protoripo](https://www.figma.com/proto/W55pvWsUVcC6qUqEBkfZzn/UI---Web3Aprende?page-id=0%3A1&type=design&node-id=114-30&viewport=-118%2C166%2C0.32&scaling=min-zoom&starting-point-node-id=1%3A2)
+- ### [Protoripo](https://www.figma.com/proto/W55pvWsUVcC6qUqEBkfZzn/UI---Web3Aprende?node-id=1-2&starting-point-node-id=1%3A2)
 
 ## **DEPLOY**
 - ### [Web App](https://web3aprende.vercel.app/)
